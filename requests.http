@@ -1,5 +1,3 @@
-GET https://api.veriphone.io/v2/verify?phone=4255036490&key=ED49E43E873B4D798883DD7E06A174E3
-
 ### SHOW NUMBER
 
 GET https://api.veriphone.io/v2/verify?phone=4255036490
